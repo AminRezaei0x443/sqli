@@ -1,4 +1,4 @@
-from sqli.data.map_datasource import MapDataSource
+from sqli.data.map.map_datasource import MapDataSource
 from sqli.parser.parser import parse
 
 

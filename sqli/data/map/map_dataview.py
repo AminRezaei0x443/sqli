@@ -1,5 +1,5 @@
-from sqli.data.dataview import DataView
-from sqli.data.filter import Filter
+from sqli.data.base.dataview import DataView
+from sqli.data.base.filter import Filter
 
 
 class MapDataView(DataView):

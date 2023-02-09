@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from sqli.data.dataview import DataView
+from sqli.data.base.dataview import DataView
 
 
 class Predicate(ABC):

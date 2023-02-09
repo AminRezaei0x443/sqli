@@ -1,5 +1,5 @@
-from sqli.data.datasource import DataSource
-from sqli.data.dataview import DataView
+from sqli.data.base.datasource import DataSource
+from sqli.data.base.dataview import DataView
 from sqli.types.predicate import Predicate
 
 

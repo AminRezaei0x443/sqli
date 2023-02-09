@@ -1,6 +1,6 @@
-from sqli.data.datasource import DataSource
-from sqli.data.dataview import DataView
-from sqli.data.map_dataview import MapDataView
+from sqli.data.base.datasource import DataSource
+from sqli.data.base.dataview import DataView
+from sqli.data.map.map_dataview import MapDataView
 
 
 class MapDataSource(DataSource):

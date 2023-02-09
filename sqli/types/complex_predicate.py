@@ -1,6 +1,6 @@
 from enum import Enum, auto
 
-from sqli.data.dataview import DataView
+from sqli.data.base.dataview import DataView
 from sqli.types.predicate import Predicate
 
 

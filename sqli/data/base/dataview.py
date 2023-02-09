@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from sqli.data.filter import Filter
+from sqli.data.base.filter import Filter
 
 
 class DataView(ABC):
