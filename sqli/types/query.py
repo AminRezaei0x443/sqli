@@ -21,6 +21,7 @@ class Query:
         }
 
     def execute(self, datasource: DataSource) -> DataView:
+        # TODO: Validate query against the datasource structure before execution
         view = datasource[self.table]
         f = self.predicate.filter(view)
         return view.select(self.targets, f)

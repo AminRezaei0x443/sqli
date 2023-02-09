@@ -23,10 +23,12 @@ class ComplexPredicate(Predicate):
         match self.type_:
             case ComplexPredicateType.AND:
                 f1 = self.p1.filter(view)
+                # TODO: Optimize by only passing the true results of previous filter
                 f2 = self.p2.filter(view)
                 return f1 & f2
             case ComplexPredicateType.OR:
                 f1 = self.p1.filter(view)
+                # TODO: Optimize by only passing the false results of previous filter
                 f2 = self.p2.filter(view)
                 return f1 | f2
             case ComplexPredicateType.NOT:
