@@ -1,0 +1,501 @@
+Number,City,Gender,Age,Income,Illness
+48139,New York City,Female,36,80012.0,No
+118481,Boston,Male,26,89768.0,Yes
+74103,Los Angeles,Female,53,92709.0,No
+134472,San Diego,Female,34,96640.0,No
+72118,Los Angeles,Male,53,99473.0,No
+31874,New York City,Male,53,110506.0,No
+109204,Mountain View,Female,29,137609.0,No
+9367,Dallas,Female,52,44980.0,No
+47639,New York City,Female,37,96042.0,No
+29845,New York City,Male,45,83191.0,No
+125605,Washington D.C.,Male,27,67589.0,No
+39460,New York City,Male,54,105165.0,No
+87816,Los Angeles,Female,45,84948.0,No
+27051,New York City,Female,52,90651.0,No
+138023,Austin,Male,46,102927.0,No
+70998,Los Angeles,Female,32,84532.0,No
+65776,New York City,Female,54,88366.0,No
+10573,Dallas,Female,47,41419.0,No
+128765,Washington D.C.,Female,32,80418.0,No
+132180,Washington D.C.,Female,51,78563.0,No
+141906,Austin,Male,48,99584.0,No
+127512,Washington D.C.,Male,58,89590.0,No
+105582,Mountain View,Male,35,133756.0,No
+57660,New York City,Female,62,85142.0,No
+105552,Mountain View,Female,37,148721.0,No
+30802,New York City,Male,45,78584.0,No
+4897,Dallas,Male,25,62677.0,Yes
+22903,New York City,Male,55,96284.0,No
+99655,Los Angeles,Male,53,112345.0,No
+126902,Washington D.C.,Female,52,67619.0,No
+122835,Boston,Male,30,93012.0,No
+74666,Los Angeles,Male,42,103981.0,No
+46219,New York City,Female,44,98366.0,No
+139568,Austin,Female,30,89448.0,No
+90359,Los Angeles,Female,28,81819.0,No
+33755,New York City,Male,58,99578.0,No
+4938,Dallas,Female,39,22554.0,Yes
+100381,Los Angeles,Male,62,103098.0,No
+38592,New York City,Female,38,95080.0,No
+2535,Dallas,Male,60,45688.0,No
+65695,New York City,Male,63,98937.0,No
+115810,Mountain View,Female,42,120476.0,No
+141685,Austin,Male,47,87559.0,No
+146896,Austin,Male,28,93947.0,No
+78828,Los Angeles,Male,38,83149.0,No
+49107,New York City,Female,57,95254.0,No
+127633,Washington D.C.,Female,38,66389.0,No
+45094,New York City,Male,54,120832.0,No
+46917,New York City,Male,30,105145.0,No
+18616,Dallas,Male,47,51841.0,No
+101956,Los Angeles,Female,54,87454.0,No
+149926,Austin,Female,38,93228.0,No
+27931,New York City,Female,34,67327.0,No
+64564,New York City,Male,28,116147.0,No
+54334,New York City,Male,49,98577.0,No
+95642,Los Angeles,Male,47,99378.0,No
+48036,New York City,Female,35,84371.0,No
+144421,Austin,Male,30,98700.0,No
+132115,Washington D.C.,Male,49,67722.0,No
+118825,Boston,Male,46,76335.0,No
+127184,Washington D.C.,Male,46,71235.0,No
+47145,New York City,Female,51,74025.0,No
+109168,Mountain View,Male,46,135430.0,No
+43649,New York City,Male,48,103411.0,No
+50068,New York City,Female,43,95544.0,No
+38516,New York City,Male,37,94702.0,No
+103119,Mountain View,Male,61,153670.0,No
+135078,San Diego,Male,46,93515.0,No
+61364,New York City,Male,42,102871.0,No
+145158,Austin,Male,57,88487.0,No
+57790,New York City,Female,26,96839.0,No
+24203,New York City,Male,57,97711.0,No
+126084,Washington D.C.,Female,61,60742.0,No
+136900,San Diego,Male,57,98445.0,No
+147991,Austin,Female,31,84677.0,No
+103095,Mountain View,Female,61,132970.0,No
+97352,Los Angeles,Male,50,100978.0,No
+10092,Dallas,Male,37,49379.0,No
+143248,Austin,Female,41,79029.0,No
+75116,Los Angeles,Male,51,84506.0,No
+87535,Los Angeles,Male,59,95680.0,No
+50663,New York City,Male,41,109833.0,Yes
+48569,New York City,Male,38,94869.0,No
+94283,Los Angeles,Male,61,112461.0,No
+69798,New York City,Male,39,99042.0,No
+4190,Dallas,Male,55,44258.0,No
+126225,Washington D.C.,Male,33,81889.0,Yes
+28212,New York City,Male,36,96839.0,No
+8037,Dallas,Male,39,30431.0,No
+202,Dallas,Male,35,32404.0,No
+34895,New York City,Female,50,85281.0,No
+48193,New York City,Male,58,103754.0,No
+41821,New York City,Female,33,91434.0,No
+121445,Boston,Male,56,102005.0,No
+21294,New York City,Male,58,106692.0,No
+28445,New York City,Male,61,91344.0,Yes
+28389,New York City,Male,58,107452.0,No
+16896,Dallas,Female,50,28411.0,No
+121671,Boston,Male,65,93399.0,No
+98440,Los Angeles,Male,60,89960.0,No
+83168,Los Angeles,Male,41,110804.0,No
+18790,Dallas,Male,33,34210.0,No
+118117,Boston,Male,33,110625.0,No
+140483,Austin,Female,51,82649.0,No
+37595,New York City,Female,30,97024.0,No
+101310,Los Angeles,Female,55,87507.0,No
+78730,Los Angeles,Female,63,93520.0,No
+42235,New York City,Female,39,108231.0,No
+71090,Los Angeles,Female,54,94763.0,No
+99441,Los Angeles,Female,29,101352.0,No
+78369,Los Angeles,Female,34,80491.0,No
+136243,San Diego,Male,44,86308.0,No
+60660,New York City,Female,42,81298.0,No
+23620,New York City,Female,34,89511.0,Yes
+46214,New York City,Female,26,98113.0,No
+628,Dallas,Male,57,25278.0,No
+48650,New York City,Male,34,87276.0,No
+11093,Dallas,Male,28,45807.0,Yes
+120384,Boston,Male,42,104810.0,No
+135709,San Diego,Female,52,107515.0,Yes
+95057,Los Angeles,Male,50,77896.0,No
+81028,Los Angeles,Female,55,110691.0,No
+97324,Los Angeles,Male,33,95532.0,No
+129374,Washington D.C.,Male,53,84514.0,No
+35117,New York City,Male,38,98615.0,Yes
+13876,Dallas,Female,42,53269.0,No
+17432,Dallas,Female,40,47229.0,No
+38002,New York City,Female,47,89621.0,No
+73717,Los Angeles,Female,30,72618.0,Yes
+120729,Boston,Male,63,89441.0,No
+19133,Dallas,Female,41,25572.0,No
+88070,Los Angeles,Male,56,114058.0,No
+25671,New York City,Female,44,76423.0,No
+104614,Mountain View,Female,52,120960.0,No
+41543,New York City,Male,64,115818.0,No
+93566,Los Angeles,Female,38,102132.0,No
+129838,Washington D.C.,Male,37,80606.0,No
+15778,Dallas,Female,61,34226.0,No
+131110,Washington D.C.,Male,60,94380.0,No
+34526,New York City,Male,39,100544.0,No
+16475,Dallas,Male,55,38448.0,No
+24179,New York City,Male,32,86782.0,No
+89250,Los Angeles,Male,56,90566.0,No
+61637,New York City,Female,53,103766.0,No
+99712,Los Angeles,Female,35,84299.0,No
+69535,New York City,Female,28,107594.0,No
+22339,New York City,Female,63,90962.0,No
+36013,New York City,Male,63,109294.0,No
+27687,New York City,Female,32,79797.0,No
+58495,New York City,Male,53,98249.0,Yes
+48749,New York City,Female,51,105211.0,No
+22706,New York City,Male,36,92209.0,No
+49575,New York City,Male,39,99451.0,No
+104720,Mountain View,Female,53,107165.0,No
+139214,Austin,Male,49,114266.0,Yes
+59384,New York City,Male,26,91135.0,No
+121553,Boston,Male,41,110231.0,No
+82666,Los Angeles,Male,28,101336.0,No
+20710,New York City,Male,49,90226.0,Yes
+106043,Mountain View,Male,51,125686.0,No
+41413,New York City,Female,63,96786.0,No
+113430,Mountain View,Male,38,143597.0,No
+66744,New York City,Male,59,96346.0,Yes
+6272,Dallas,Male,47,56585.0,No
+64035,New York City,Female,44,94166.0,No
+13530,Dallas,Male,32,41260.0,No
+113498,Mountain View,Male,47,152540.0,No
+106352,Mountain View,Male,51,142400.0,No
+130123,Washington D.C.,Male,57,83443.0,No
+29517,New York City,Male,54,95646.0,No
+105491,Mountain View,Female,57,133934.0,No
+7604,Dallas,Male,60,44258.0,No
+53549,New York City,Male,65,109528.0,No
+82020,Los Angeles,Male,56,94998.0,No
+137846,Austin,Female,55,89057.0,No
+46414,New York City,Male,58,92940.0,No
+64814,New York City,Male,39,88950.0,No
+85957,Los Angeles,Female,52,92307.0,No
+27958,New York City,Female,38,109906.0,Yes
+68116,New York City,Male,46,93042.0,Yes
+145366,Austin,Female,27,75390.0,No
+63139,New York City,Male,25,112194.0,No
+53624,New York City,Female,34,81411.0,No
+92789,Los Angeles,Male,38,97949.0,No
+116550,Boston,Male,57,89379.0,No
+88633,Los Angeles,Male,53,93404.0,No
+35033,New York City,Male,44,86395.0,No
+50733,New York City,Male,31,104395.0,No
+30599,New York City,Female,32,72421.0,No
+25151,New York City,Male,40,97252.0,No
+86303,Los Angeles,Male,35,96781.0,No
+122022,Boston,Female,47,105893.0,No
+122660,Boston,Male,59,111860.0,No
+79053,Los Angeles,Female,48,83083.0,No
+113651,Mountain View,Female,48,135530.0,No
+108794,Mountain View,Female,47,120433.0,No
+15601,Dallas,Female,43,43646.0,No
+30102,New York City,Male,57,86900.0,No
+73739,Los Angeles,Male,32,113620.0,Yes
+135899,San Diego,Male,49,110618.0,No
+70202,Los Angeles,Male,54,100071.0,No
+47381,New York City,Male,61,97805.0,No
+109911,Mountain View,Male,62,123325.0,No
+146590,Austin,Female,25,72435.0,No
+10285,Dallas,Female,26,60026.0,No
+27558,New York City,Male,29,122594.0,No
+73170,Los Angeles,Male,28,107973.0,No
+82802,Los Angeles,Female,29,102382.0,No
+30931,New York City,Male,62,108041.0,No
+97842,Los Angeles,Female,51,84345.0,No
+147314,Austin,Female,59,88565.0,No
+1671,Dallas,Female,30,30927.0,Yes
+64806,New York City,Female,52,103710.0,No
+43945,New York City,Female,57,86144.0,No
+16577,Dallas,Female,32,30361.0,No
+134608,San Diego,Female,61,90207.0,No
+56742,New York City,Male,52,84854.0,No
+101675,Los Angeles,Female,49,87577.0,Yes
+69359,New York City,Female,55,87522.0,No
+125750,Washington D.C.,Male,32,82966.0,No
+146371,Austin,Male,63,96068.0,No
+10132,Dallas,Female,48,30636.0,No
+80833,Los Angeles,Female,48,74957.0,No
+127820,Washington D.C.,Female,58,65556.0,No
+125326,Washington D.C.,Female,36,61475.0,No
+63239,New York City,Male,46,104108.0,Yes
+23806,New York City,Female,63,95759.0,No
+59080,New York City,Male,31,115946.0,No
+27627,New York City,Female,63,73372.0,Yes
+34379,New York City,Male,50,130145.0,No
+44738,New York City,Male,33,105029.0,No
+55461,New York City,Male,27,98028.0,Yes
+12453,Dallas,Female,57,14184.0,No
+68560,New York City,Female,53,83554.0,No
+135607,San Diego,Male,34,103185.0,No
+96667,Los Angeles,Male,54,92868.0,Yes
+28375,New York City,Female,63,66807.0,No
+136057,San Diego,Male,41,121904.0,No
+67172,New York City,Male,45,115095.0,No
+17536,Dallas,Female,48,30455.0,No
+64926,New York City,Female,28,96255.0,Yes
+70552,Los Angeles,Male,38,95667.0,No
+100453,Los Angeles,Female,46,86676.0,No
+118680,Boston,Female,47,101003.0,No
+129294,Washington D.C.,Male,32,79517.0,No
+104819,Mountain View,Female,49,131328.0,No
+136525,San Diego,Female,42,93182.0,No
+16532,Dallas,Female,50,43880.0,No
+88027,Los Angeles,Male,40,100875.0,No
+74818,Los Angeles,Male,37,100655.0,No
+53288,New York City,Female,38,87396.0,No
+77404,Los Angeles,Female,54,106098.0,No
+27316,New York City,Female,29,84760.0,Yes
+28362,New York City,Male,26,107995.0,No
+100998,Los Angeles,Male,27,104660.0,No
+149900,Austin,Male,34,79184.0,No
+36782,New York City,Male,26,92661.0,No
+58286,New York City,Female,36,81538.0,No
+147417,Austin,Female,58,95354.0,No
+137287,San Diego,Female,41,96767.0,No
+125555,Washington D.C.,Male,27,72443.0,No
+68373,New York City,Male,36,94723.0,No
+111145,Mountain View,Male,43,152242.0,No
+22254,New York City,Female,53,91722.0,No
+69433,New York City,Male,49,92433.0,No
+137326,San Diego,Female,27,87697.0,No
+51908,New York City,Male,26,104860.0,No
+96429,Los Angeles,Male,59,103174.0,No
+119659,Boston,Male,60,93714.0,No
+30682,New York City,Female,39,88154.0,No
+93873,Los Angeles,Female,38,99867.0,No
+26345,New York City,Male,43,102664.0,No
+34018,New York City,Male,48,116638.0,No
+72426,Los Angeles,Female,40,89758.0,No
+115,Dallas,Male,58,46788.0,Yes
+107381,Mountain View,Female,44,143173.0,No
+135019,San Diego,Male,39,109772.0,No
+40609,New York City,Male,33,95167.0,No
+45985,New York City,Male,64,128296.0,No
+56923,New York City,Male,38,112365.0,No
+81837,Los Angeles,Male,59,90082.0,No
+63869,New York City,Male,61,97371.0,No
+61452,New York City,Male,64,107132.0,No
+109074,Mountain View,Male,53,149685.0,No
+64860,New York City,Female,42,67912.0,No
+73333,Los Angeles,Female,61,87463.0,No
+26308,New York City,Male,43,96538.0,No
+99114,Los Angeles,Male,44,111293.0,No
+148428,Austin,Female,32,87772.0,No
+35077,New York City,Male,32,84406.0,No
+39163,New York City,Male,35,92127.0,No
+142276,Austin,Male,48,82891.0,No
+77249,Los Angeles,Male,57,96259.0,No
+18724,Dallas,Male,52,52504.0,No
+50866,New York City,Female,54,104550.0,No
+74280,Los Angeles,Male,29,99342.0,No
+26984,New York City,Female,47,91459.0,No
+9451,Dallas,Male,54,40222.0,No
+115889,Mountain View,Male,61,131845.0,No
+30295,New York City,Male,47,113829.0,No
+38395,New York City,Male,26,97449.0,No
+72151,Los Angeles,Male,43,100101.0,No
+120189,Boston,Male,51,90469.0,No
+132710,Washington D.C.,Female,40,57042.0,No
+102443,Mountain View,Female,28,121112.0,Yes
+96607,Los Angeles,Female,31,80965.0,No
+58852,New York City,Female,38,94513.0,No
+90219,Los Angeles,Male,53,113423.0,No
+3860,Dallas,Female,51,42720.0,No
+2847,Dallas,Male,38,50933.0,No
+22216,New York City,Female,58,100568.0,No
+136566,San Diego,Female,62,97333.0,No
+61596,New York City,Female,44,88052.0,No
+30724,New York City,Male,26,115215.0,No
+104902,Mountain View,Male,63,142268.0,No
+52557,New York City,Male,38,114604.0,No
+124259,Boston,Male,48,102276.0,No
+118522,Boston,Male,34,86009.0,No
+9902,Dallas,Female,60,54128.0,No
+109083,Mountain View,Female,55,139630.0,No
+95210,Los Angeles,Male,38,79975.0,No
+2704,Dallas,Female,63,31561.0,No
+98493,Los Angeles,Male,42,112618.0,No
+34424,New York City,Female,54,104771.0,No
+148787,Austin,Female,58,73913.0,No
+128503,Washington D.C.,Female,55,72461.0,No
+91085,Los Angeles,Female,55,78392.0,No
+38198,New York City,Male,64,119201.0,No
+76709,Los Angeles,Female,55,94419.0,No
+120424,Boston,Female,29,83751.0,Yes
+123074,Boston,Female,50,90647.0,No
+22608,New York City,Male,42,102590.0,No
+55509,New York City,Male,45,100753.0,No
+103172,Mountain View,Male,30,137645.0,No
+46075,New York City,Female,40,78289.0,No
+131540,Washington D.C.,Female,41,63711.0,No
+68753,New York City,Male,44,120823.0,No
+6928,Dallas,Female,43,50574.0,No
+59665,New York City,Male,26,113732.0,No
+53625,New York City,Female,45,102313.0,No
+68591,New York City,Male,60,105368.0,No
+107380,Mountain View,Male,61,150273.0,No
+74129,Los Angeles,Female,32,104759.0,No
+117426,Boston,Female,49,100895.0,No
+65815,New York City,Female,36,80434.0,No
+121377,Boston,Female,51,85048.0,No
+130877,Washington D.C.,Male,56,70935.0,No
+116942,Boston,Female,35,80486.0,No
+147863,Austin,Male,50,87150.0,No
+18254,Dallas,Female,54,34515.0,No
+108202,Mountain View,Male,26,135839.0,No
+107766,Mountain View,Female,60,138992.0,No
+135844,San Diego,Male,48,102300.0,No
+70096,Los Angeles,Male,51,93020.0,No
+64190,New York City,Male,32,115001.0,No
+30245,New York City,Male,47,102729.0,No
+59002,New York City,Male,59,94533.0,No
+57279,New York City,Male,36,86465.0,No
+128563,Washington D.C.,Female,60,64014.0,No
+119138,Boston,Male,54,91230.0,No
+41486,New York City,Male,31,81334.0,No
+61973,New York City,Female,51,92553.0,No
+131422,Washington D.C.,Male,50,71721.0,No
+37360,New York City,Female,26,91654.0,No
+70378,Los Angeles,Female,34,106807.0,No
+50566,New York City,Male,62,108330.0,No
+51491,New York City,Male,28,102546.0,Yes
+5675,Dallas,Male,30,60560.0,No
+94479,Los Angeles,Female,60,94930.0,No
+57596,New York City,Male,64,109497.0,No
+70434,Los Angeles,Male,55,91145.0,No
+73205,Los Angeles,Female,49,100449.0,No
+47767,New York City,Female,32,91108.0,No
+39680,New York City,Male,46,94120.0,No
+71583,Los Angeles,Female,29,83557.0,No
+102076,Los Angeles,Male,58,112190.0,No
+49166,New York City,Male,55,82754.0,No
+10661,Dallas,Male,30,36009.0,No
+51706,New York City,Male,26,126413.0,Yes
+71716,Los Angeles,Female,56,85866.0,No
+43151,New York City,Male,63,123610.0,No
+32128,New York City,Female,41,85955.0,No
+47803,New York City,Male,57,103854.0,No
+31139,New York City,Male,52,100156.0,No
+19082,Dallas,Male,61,57461.0,No
+68692,New York City,Male,49,119459.0,No
+46858,New York City,Female,40,95249.0,No
+97550,Los Angeles,Male,56,103627.0,No
+95304,Los Angeles,Female,61,80540.0,No
+29387,New York City,Male,65,102701.0,No
+135174,San Diego,Female,51,78682.0,No
+135973,San Diego,Female,30,109943.0,No
+126055,Washington D.C.,Male,29,76279.0,No
+59759,New York City,Male,48,94718.0,No
+62531,New York City,Female,32,91567.0,Yes
+8270,Dallas,Male,41,53103.0,No
+8681,Dallas,Female,53,39794.0,No
+135747,San Diego,Female,36,97749.0,No
+42025,New York City,Male,36,114398.0,No
+39280,New York City,Female,43,82325.0,No
+69861,New York City,Male,60,91020.0,No
+96732,Los Angeles,Male,35,92166.0,No
+128757,Washington D.C.,Male,47,70375.0,No
+4748,Dallas,Female,40,43805.0,No
+134903,San Diego,Male,59,95936.0,No
+12156,Dallas,Male,31,59601.0,No
+43755,New York City,Male,53,103746.0,No
+79396,Los Angeles,Male,36,111232.0,No
+130681,Washington D.C.,Female,38,64416.0,No
+40599,New York City,Male,41,108044.0,No
+87762,Los Angeles,Female,49,82902.0,No
+74024,Los Angeles,Female,29,87584.0,No
+29804,New York City,Female,43,81780.0,No
+30789,New York City,Male,28,91579.0,No
+52423,New York City,Male,40,100784.0,No
+126137,Washington D.C.,Female,59,55856.0,No
+42164,New York City,Female,63,100150.0,No
+82093,Los Angeles,Male,54,97613.0,No
+142351,Austin,Male,40,94052.0,No
+101203,Los Angeles,Male,27,98488.0,Yes
+36444,New York City,Female,45,115455.0,Yes
+861,Dallas,Female,63,40631.0,No
+100385,Los Angeles,Male,26,96623.0,No
+134771,San Diego,Female,25,109439.0,No
+108743,Mountain View,Male,64,140360.0,No
+87230,Los Angeles,Male,39,109479.0,No
+104431,Mountain View,Male,39,152347.0,No
+88147,Los Angeles,Female,46,98219.0,No
+96236,Los Angeles,Male,62,110299.0,No
+80314,Los Angeles,Female,64,101788.0,No
+30342,New York City,Male,61,115730.0,No
+147909,Austin,Male,63,101434.0,Yes
+148369,Austin,Female,55,95126.0,No
+115391,Mountain View,Female,44,125137.0,No
+113815,Mountain View,Male,43,137646.0,No
+76586,Los Angeles,Male,33,95591.0,No
+112756,Mountain View,Male,26,133069.0,No
+103374,Mountain View,Female,34,124258.0,No
+58578,New York City,Female,57,88368.0,Yes
+50325,New York City,Male,59,93033.0,No
+63016,New York City,Female,53,88226.0,No
+77455,Los Angeles,Female,50,99024.0,No
+147711,Austin,Male,30,91363.0,No
+115108,Mountain View,Male,51,131973.0,Yes
+83353,Los Angeles,Male,56,110796.0,No
+116048,Mountain View,Female,40,134208.0,No
+145913,Austin,Male,58,96806.0,No
+2846,Dallas,Male,50,75127.0,No
+40302,New York City,Female,58,91253.0,No
+51037,New York City,Male,51,87616.0,Yes
+3401,Dallas,Male,43,52708.0,No
+133666,San Diego,Female,63,89042.0,No
+65323,New York City,Female,52,69145.0,No
+82606,Los Angeles,Male,33,108141.0,No
+111306,Mountain View,Male,43,145508.0,No
+57332,New York City,Female,34,87631.0,No
+28927,New York City,Male,63,102510.0,No
+82118,Los Angeles,Male,61,95548.0,No
+123670,Boston,Female,62,93013.0,No
+58092,New York City,Male,38,107115.0,No
+117766,Boston,Female,62,85511.0,No
+29446,New York City,Male,26,104371.0,No
+95983,Los Angeles,Male,56,107168.0,No
+49368,New York City,Female,40,62287.0,No
+110739,Mountain View,Male,31,141331.0,No
+32001,New York City,Male,49,98785.0,No
+6793,Dallas,Male,48,61027.0,No
+37619,New York City,Male,32,94720.0,No
+58262,New York City,Female,26,89042.0,No
+85852,Los Angeles,Male,40,98177.0,No
+27187,New York City,Male,45,98280.0,No
+68391,New York City,Female,52,83604.0,No
+80760,Los Angeles,Female,50,96326.0,Yes
+128643,Washington D.C.,Male,51,68509.0,Yes
+88663,Los Angeles,Male,28,100670.0,No
+128085,Washington D.C.,Male,59,58833.0,No
+33935,New York City,Male,42,108220.0,No
+6905,Dallas,Male,64,51069.0,No
+137102,San Diego,Male,28,109212.0,No
+124200,Boston,Male,53,110511.0,No
+85784,Los Angeles,Male,54,103657.0,No
+18990,Dallas,Male,53,60947.0,No
+29926,New York City,Female,54,87197.0,No
+121584,Boston,Female,63,72552.0,Yes
+63194,New York City,Female,35,97131.0,No
+73443,Los Angeles,Male,44,94314.0,No
+124727,Washington D.C.,Male,59,94459.0,Yes
+8470,Dallas,Male,58,47609.0,No
+65841,New York City,Female,41,84043.0,No
+84783,Los Angeles,Male,50,104381.0,No
+105283,Mountain View,Female,59,133221.0,No
+127704,Washington D.C.,Female,63,73159.0,No
+22019,New York City,Male,42,96230.0,No
+116584,Boston,Female,41,88885.0,No
+46857,New York City,Female,50,85416.0,Yes
+111616,Mountain View,Female,32,146677.0,No
+121011,Boston,Female,51,85700.0,No
+68490,New York City,Female,30,92725.0,No
+105609,Mountain View,Male,51,122300.0,No
+108952,Mountain View,Male,58,129045.0,No

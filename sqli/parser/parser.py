@@ -12,6 +12,10 @@ class CreateQueryTree(Transformer):
         return int(n)
 
     @v_args(inline=True)
+    def STRING(self, s):
+        return str(s)[1:-1]
+
+    @v_args(inline=True)
     def start(self, q):
         return q
 
