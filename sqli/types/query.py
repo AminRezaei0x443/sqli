@@ -1,3 +1,5 @@
+from sqli.data.datasource import DataSource
+from sqli.data.dataview import DataView
 from sqli.types.predicate import Predicate
 
 
@@ -17,3 +19,8 @@ class Query:
             "table": self.table,
             "predicate": self.predicate.__to_dict__(),
         }
+
+    def execute(self, datasource: DataSource) -> DataView:
+        view = datasource[self.table]
+        f = self.predicate.filter(view)
+        return view.select(self.targets, f)

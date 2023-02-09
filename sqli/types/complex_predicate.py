@@ -1,4 +1,6 @@
 from enum import Enum, auto
+
+from sqli.data.dataview import DataView
 from sqli.types.predicate import Predicate
 
 
@@ -17,8 +19,21 @@ class ComplexPredicate(Predicate):
         self.p1 = p1
         self.p2 = p2
 
-    def filter(self, *args):
-        return super().filter(*args)
+    def filter(self, view: DataView):
+        match self.type_:
+            case ComplexPredicateType.AND:
+                f1 = self.p1.filter(view)
+                f2 = self.p2.filter(view)
+                return f1 & f2
+            case ComplexPredicateType.OR:
+                f1 = self.p1.filter(view)
+                f2 = self.p2.filter(view)
+                return f1 | f2
+            case ComplexPredicateType.NOT:
+                f1 = self.p1.filter(view)
+                return ~f1
+            case _:
+                raise RuntimeError("Unsupported simple predicate!")
 
     def __to_dict__(self):
         return {

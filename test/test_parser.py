@@ -30,7 +30,7 @@ def test_parser_2():
         "predicate": {
             "type": "ColumnToValue",
             "op1": "id",
-            "op2": "\"1\"",
+            "op2": '"1"',
         },
     }
 

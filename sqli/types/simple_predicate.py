@@ -1,4 +1,6 @@
 from enum import Enum, auto
+
+from sqli.data.dataview import DataView
 from sqli.types.predicate import Predicate
 
 
@@ -16,8 +18,13 @@ class SimplePredicate(Predicate):
         self.op1 = op1
         self.op2 = op2
 
-    def filter(self, *args):
-        return super().filter(*args)
+    def filter(self, view: DataView):
+        if self.type_ == SimplePredicateType.ColumnToColumn:
+            return view.filter_by_rel(self.op1, self.op2)
+        elif self.type_ == SimplePredicateType.ColumnToValue:
+            return view.filter_by_val(self.op1, self.op2)
+        else:
+            raise RuntimeError("Unsupported simple predicate!")
 
     def __to_dict__(self):
         return {
