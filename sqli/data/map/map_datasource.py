@@ -1,7 +1,8 @@
+import json
+
 from sqli.data.base.datasource import DataSource
 from sqli.data.base.dataview import DataView
 from sqli.data.map.map_dataview import MapDataView
-import json
 
 
 class MapDataSource(DataSource):

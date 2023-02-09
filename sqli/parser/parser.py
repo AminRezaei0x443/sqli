@@ -8,14 +8,6 @@ from sqli.types.simple_predicate import SimplePredicate, SimplePredicateType
 
 class CreateQueryTree(Transformer):
     @v_args(inline=True)
-    def NUMBER(self, n):
-        return int(n)
-
-    @v_args(inline=True)
-    def STRING(self, s):
-        return str(s)[1:-1]
-
-    @v_args(inline=True)
     def start(self, q):
         return q
 
@@ -82,6 +74,14 @@ class CreateQueryTree(Transformer):
             predicate,
             None,
         )
+
+    @v_args(inline=True)
+    def NUMBER(self, n):
+        return int(n)
+
+    @v_args(inline=True)
+    def STRING(self, s):
+        return str(s)[1:-1]
 
 
 def parse(query) -> Query:

@@ -1,4 +1,4 @@
-from sqli.parser.parser import parse
+from sqli import parse
 
 
 def test_parser_1():

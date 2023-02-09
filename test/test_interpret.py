@@ -1,5 +1,4 @@
-from sqli.data.map.map_datasource import MapDataSource
-from sqli.parser.parser import parse
+from sqli import MapDataSource, parse
 
 
 def test_interpret_1():
